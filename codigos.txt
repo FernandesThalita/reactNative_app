@@ -1,0 +1,5 @@
+npm  i --global expo-cli
+  expo --version
+expo init
+phoneView(extensao VSCODE)
+npx expo start
